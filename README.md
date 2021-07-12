@@ -21,7 +21,7 @@ Audio sample varies from 3 sec to 7sec.
 The wav files have 22500 sampling rate, single channel.
 
 ## Notes about the code
-Scroll down the warning messages in code
+Scroll down the warning messages in code.
 code works in following manner:-
 
 - Firstly the files from data folder are segregated into train and test folders. 
