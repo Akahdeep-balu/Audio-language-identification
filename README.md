@@ -5,7 +5,7 @@ Language Identification (LID) is broadly defined as recognizing the language of 
 
 ## Dataset
 Data Folder contains the data files in mp3 format already segregated into respective language folders. COMMON VOICE Dataset originally contains large no of files and has uneven distribution among languages. So a subset of 200 files is taken for each language. 
-The `Validated.csv` file is used to map the audio files to the language spoken in it
+The `validated.tsv` file is used to map the audio files to the language spoken in it. present separately in each language folder.
 
 Train and test folder are created by the code dividing the train and test files in desired ratio.
 
